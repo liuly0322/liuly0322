@@ -21,4 +21,48 @@ Ubuntu / VS Code
 - [My blog](http://home.ustc.edu.cn/~liuly0322/blog/)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
+🌆 Daytime    69 commits     ██████░░░░░░░░░░░░░░░░░░░   25.46% 
+🌃 Evening    142 commits    █████████████░░░░░░░░░░░░   52.4% 
+🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+
+ Last Updated on 11/03/2022 15:08:46 UTC
 <!--END_SECTION:waka-->
