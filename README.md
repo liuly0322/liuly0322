@@ -2,7 +2,7 @@
 
 I'm **liuly!**
 
-🌱 I’m currently learning [Machine Learning](https://www.bilibili.com/video/BV164411S78V), [CSAPP](https://github.com/liuly0322/CSAPP-LABS), [fastapi](https://fastapi.tiangolo.com/), database and some school work ([OS](https://osh-2022.github.io/), COD...)
+🌱 I’m currently learning [Machine Learning](https://github.com/liuly0322/Coursera-ML-AndrewNg-Exercises), [CSAPP](https://github.com/liuly0322/CSAPP-LABS), [fastapi](https://fastapi.tiangolo.com/), database and some school work ([OS](https://osh-2022.github.io/), COD...)
 
 🌟 **My Skills**
 
@@ -67,7 +67,5 @@ C                        1 repo              ██░░░░░░░░░�
 ```
 
 Last Updated on 11/03/2022 15:15:02 UTC
-
-Last Updated on 12/03/2022 01:09:04 UTC
 
 <!--END_SECTION:waka-->
