@@ -23,55 +23,56 @@ Ubuntu / VS Code
 - [My blog](http://home.ustc.edu.cn/~liuly0322/blog/)
 
 <!--START_SECTION:waka-->
-
-**I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.37%
-🌆 Daytime    69 commits     ██████░░░░░░░░░░░░░░░░░░░   24.56%
-🌃 Evening    150 commits    █████████████░░░░░░░░░░░░   53.38%
-🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.69%
+🌞 Morning    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.21% 
+🌆 Daytime    76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.21% 
+🌃 Evening    151 commits    █████████████░░░░░░░░░░░░   52.07% 
+🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages:
-Python                   1 hr 57 mins        ███████████░░░░░░░░░░░░░░   46.7%
-Rust                     1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   33.81%
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05%
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
+💬 Programming Languages: 
+Rust                     2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.85% 
+Python                   1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   30.17% 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
-🔥 Editors:
-VS Code                  4 hrs 10 mins       █████████████████████████   100.0%
+🔥 Editors: 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects:
-Coursera-ML-AndrewNg-Exer1 hr 58 mins        ███████████░░░░░░░░░░░░░░   47.2%
-cs110l-spr-2020-starter-c1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.01%
-liuly0322                41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.53%
-variables                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.83%
-CSAPP                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
+🐱‍💻 Projects: 
+cs110l-spr-2020-starter-c2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   34.05% 
+Coursera-ML-AndrewNg-Exer1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   30.53% 
+Unknown Project          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+liuly0322                48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
+variables                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
 
-💻 Operating System:
-Linux                    4 hrs 10 mins       █████████████████████████   100.0%
+💻 Operating System: 
+Linux                    6 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in C++**
+**I Mostly Code in C++** 
 
 ```text
-C++                      3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0%
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
-Last Updated on 14/03/2022 01:13:49 UTC
 
+
+ Last Updated on 15/03/2022 01:18:07 UTC
 <!--END_SECTION:waka-->
