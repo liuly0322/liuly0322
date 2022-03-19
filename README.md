@@ -26,10 +26,10 @@ Ubuntu / VS Code
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
-🌆 Daytime    76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.59% 
-🌃 Evening    155 commits    █████████████░░░░░░░░░░░░   52.19% 
-🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.39%
+🌞 Morning    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
+🌆 Daytime    77 commits     ██████░░░░░░░░░░░░░░░░░░░   25.67% 
+🌃 Evening    155 commits    █████████████░░░░░░░░░░░░   51.67% 
+🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
 
 ```
 
@@ -40,39 +40,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   42.05% 
-Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
-Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
-C++                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
+Rust                     7 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.82% 
+C++                      2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
+Python                   2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
+Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
 
 🔥 Editors: 
-VS Code                  11 hrs 55 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 54 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-cs110l-spr-2020-starter-c4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.72% 
-Coursera-ML-AndrewNg-Exer1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
-USTC-CS-COURSE-HW        1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Unknown Project          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-liuly0322                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.72%
+cs110l-spr-2020-starter-c6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   42.0% 
+Unknown Project          2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+USTC-CS-COURSE-HW        2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Coursera-ML-AndrewNg-Exer1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
+variables                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28%
 
 💻 Operating System: 
-Linux                    11 hrs 55 mins      █████████████████████████   100.0%
+Linux                    15 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+C++                      4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
 Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
 
- Last Updated on 18/03/2022 01:25:21 UTC
+ Last Updated on 19/03/2022 01:09:50 UTC
 <!--END_SECTION:waka-->
