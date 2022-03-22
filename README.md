@@ -25,55 +25,56 @@ Ubuntu / VS Code
 - [My blog](http://home.ustc.edu.cn/~liuly0322/blog/)
 
 <!--START_SECTION:waka-->
-
-**I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.68%
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08%
-🌃 Evening    162 commits    █████████████░░░░░░░░░░░░   52.09%
-🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
+🌞 Morning    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   24.3% 
+🌃 Evening    168 commits    █████████████░░░░░░░░░░░░   52.34% 
+🌙 Night      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages:
-Rust                     8 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.46%
-Markdown                 3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45%
-C++                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85%
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
-V                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54%
+💬 Programming Languages: 
+Rust                     7 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.3% 
+Markdown                 3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
+C++                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
+Vue.js                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+V                        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13%
 
-🔥 Editors:
-VS Code                  18 hrs 25 mins      █████████████████████████   100.0%
+🔥 Editors: 
+VS Code                  20 hrs 16 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects:
-cs110l-spr-2020-starter-c8 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.34%
-Unknown Project          2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27%
-USTC-CS-COURSE-HW        2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17%
-USTC-Tercher-Email       39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6%
-vuepress-homepage        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
+🐱‍💻 Projects: 
+cs110l-spr-2020-starter-c7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   38.01% 
+my-blog                  3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+Unknown Project          2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+USTC-CS-COURSE-HW        2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
+vuepress-homepage        31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
-💻 Operating System:
-Linux                    18 hrs 25 mins      █████████████████████████   100.0%
+💻 Operating System: 
+Linux                    20 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in C++**
+**I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+C++                      4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
-Last Updated on 21/03/2022 01:18:07 UTC
 
+
+ Last Updated on 22/03/2022 01:22:28 UTC
 <!--END_SECTION:waka-->
