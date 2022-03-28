@@ -23,7 +23,7 @@ Ubuntu / VS Code
 💬 **More Info**
 
 - [My homepage](http://home.ustc.edu.cn/~liuly0322/home/)
-- [My blog](http://home.ustc.edu.cn/~liuly0322/blog/)
+- [My blog](http://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
