@@ -29,10 +29,10 @@ Ubuntu / VS Code
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    108 commits    █████░░░░░░░░░░░░░░░░░░░░   22.64% 
-🌆 Daytime    120 commits    ██████░░░░░░░░░░░░░░░░░░░   25.16% 
-🌃 Evening    229 commits    ████████████░░░░░░░░░░░░░   48.01% 
-🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.19%
+🌞 Morning    111 commits    █████░░░░░░░░░░░░░░░░░░░░   23.12% 
+🌆 Daytime    120 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌃 Evening    228 commits    ████████████░░░░░░░░░░░░░   47.5% 
+🌙 Night      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
 
 ```
 
@@ -43,39 +43,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   12 hrs 52 mins      █████████████░░░░░░░░░░░░   54.03% 
-Markdown                 3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-Rust                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-V                        1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+Vue.js                   12 hrs 34 mins      █████████████░░░░░░░░░░░░   54.16% 
+Markdown                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
+TypeScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.2% 
+Rust                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
+V                        1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
 
 🔥 Editors: 
-VS Code                  23 hrs 49 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 12 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-my-blog                  17 hrs 45 mins      ██████████████████░░░░░░░   74.53% 
-for-cod-lab              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87% 
-cs110l-spr-2020-starter-c1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
-Unknown Project          54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-x-YAOG_unamed            46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
+my-blog                  17 hrs 7 mins       ██████████████████░░░░░░░   73.76% 
+for-cod-lab              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
+cs110l-spr-2020-starter-c1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
+Unknown Project          56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
+x-YAOG_unamed            46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 
 💻 Operating System: 
-Linux                    23 hrs 49 mins      █████████████████████████   100.0%
+Linux                    23 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Stylus                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
 
 
- Last Updated on 04/04/2022 01:38:54 UTC
+ Last Updated on 05/04/2022 01:23:14 UTC
 <!--END_SECTION:waka-->
