@@ -29,10 +29,10 @@ Ubuntu / VS Code
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    118 commits    █████░░░░░░░░░░░░░░░░░░░░   22.87% 
-🌆 Daytime    124 commits    ██████░░░░░░░░░░░░░░░░░░░   24.03% 
-🌃 Evening    252 commits    ████████████░░░░░░░░░░░░░   48.84% 
-🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+🌞 Morning    122 commits    █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+🌆 Daytime    126 commits    ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+🌃 Evening    252 commits    ████████████░░░░░░░░░░░░░   48.0% 
+🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
 ```
 
@@ -43,39 +43,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   39.2% 
-Python                   5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.9% 
-Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
-C                        1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Vue.js                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02%
+V                        6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   35.21% 
+Python                   5 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   27.34% 
+Vue.js                   3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
+Markdown                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+C                        55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.67%
 
 🔥 Editors: 
-VS Code                  17 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 39 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-lab4                     6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   34.98% 
-Unknown Project          2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-fastapi-jwt              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
-CSAPP                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Coursera-ML-AndrewNg-Exer1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.51%
+lab4                     6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   31.42% 
+my-blog                  3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
+fastapi-jwt              3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
+Unknown Project          2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+CSAPP                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
 
 💻 Operating System: 
-Linux                    17 hrs 39 mins      █████████████████████████   100.0%
+Linux                    19 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+C++                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
 
 
- Last Updated on 15/04/2022 01:38:05 UTC
+ Last Updated on 16/04/2022 01:25:20 UTC
 <!--END_SECTION:waka-->
