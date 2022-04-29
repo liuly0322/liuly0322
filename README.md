@@ -29,10 +29,10 @@ Ubuntu / VS Code
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    136 commits    ██████░░░░░░░░░░░░░░░░░░░   24.16% 
-🌆 Daytime    132 commits    █████░░░░░░░░░░░░░░░░░░░░   23.45% 
-🌃 Evening    270 commits    ████████████░░░░░░░░░░░░░   47.96% 
-🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+🌞 Morning    137 commits    ██████░░░░░░░░░░░░░░░░░░░   23.99% 
+🌆 Daytime    136 commits    ██████░░░░░░░░░░░░░░░░░░░   23.82% 
+🌃 Evening    273 commits    ████████████░░░░░░░░░░░░░   47.81% 
+🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
 
 ```
 
@@ -43,39 +43,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     11 hrs 20 mins      ████████████████░░░░░░░░░   64.71% 
-Python                   2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-V                        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
-C++                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71%
+Rust                     11 hrs 20 mins      █████████████░░░░░░░░░░░░   55.46% 
+Python                   2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+Markdown                 2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+C++                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+V                        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
 
 🔥 Editors: 
-VS Code                  17 hrs 31 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 26 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-osh-2022                 9 hrs 51 mins       ██████████████░░░░░░░░░░░   56.24% 
-cook                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-cod-verilator            1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
-cs110l-spr-2020-starter-c1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
+osh-2022                 9 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.2% 
+cod-verilator            4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85% 
+cook                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
+cs110l-spr-2020-starter-c1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.96%
 
 💻 Operating System: 
-Linux                    17 hrs 31 mins      █████████████████████████   100.0%
+Linux                    20 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in C++** 
 
 ```text
+C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
 Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Verilog                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+Stylus                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 28/04/2022 02:20:40 UTC
+ Last Updated on 29/04/2022 01:52:28 UTC
 <!--END_SECTION:waka-->
