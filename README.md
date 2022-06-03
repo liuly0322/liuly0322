@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm **liuly!**
-
-🌱 I’m currently learning [Machine Learning](https://github.com/liuly0322/Coursera-ML-AndrewNg-Exercises), [CSAPP](https://github.com/liuly0322/CSAPP-LABS), [CS110L](https://github.com/liuly0322/cs110l-spr-2020-starter-code), [fastapi](https://fastapi.tiangolo.com/), database and some school work ([OS](https://osh-2022.github.io/), COD...)
-
-📚 I'm currently working on [cook](https://github.com/liuly0322/cook) for my python course homework
+I'm **liuly**.
 
 🌟 **My Skills**
 
