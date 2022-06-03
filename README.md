@@ -22,18 +22,7 @@ Ubuntu / VS Code
 - [My blog](http://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    192 commits    ██████░░░░░░░░░░░░░░░░░░░   27.23% 
-🌆 Daytime    171 commits    ██████░░░░░░░░░░░░░░░░░░░   24.26% 
-🌃 Evening    314 commits    ███████████░░░░░░░░░░░░░░   44.54% 
-🌙 Night      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.97%
-
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2038%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,5 +63,5 @@ Verilog                  2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2022 01:28:33 UTC
+ Last Updated on 03/06/2022 07:40:09 UTC
 <!--END_SECTION:waka-->
