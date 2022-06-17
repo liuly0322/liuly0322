@@ -30,18 +30,16 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     57 mins             ████████████████████████░   98.5% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CSAPP                    58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -58,5 +56,5 @@ Verilog                  2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2022 01:47:44 UTC
+ Last Updated on 17/06/2022 01:49:51 UTC
 <!--END_SECTION:waka-->
