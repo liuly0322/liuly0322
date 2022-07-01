@@ -30,39 +30,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 hrs 24 mins      █████████████████░░░░░░░░   69.42% 
-Rust                     3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.67% 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
-CSV                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
+Python                   12 hrs              ██████████████░░░░░░░░░░░   57.32% 
+Rust                     5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   27.37% 
+HTML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
+CSV                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
 
 🔥 Editors: 
-VS Code                  17 hrs 53 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 57 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Python_Lesson            9 hrs 44 mins       █████████████░░░░░░░░░░░░   54.48% 
-x-YAOG_unamed            3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-python_hw                2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-PyQt_practice            1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
-ailab                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
+Python_Lesson            9 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   43.45% 
+x-YAOG_unamed            5 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   27.35% 
+python_hw                2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+PyQt_practice            1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
+cugan                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 💻 Operating System: 
-Linux                    17 hrs 53 mins      █████████████████████████   100.0%
+Linux                    20 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Verilog                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Verilog                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
 
 
- Last Updated on 30/06/2022 01:57:10 UTC
+ Last Updated on 01/07/2022 02:06:37 UTC
 <!--END_SECTION:waka-->
