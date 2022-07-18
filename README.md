@@ -30,17 +30,16 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-x-realism                29 mins             ██████████████████░░░░░░░   71.6% 
-x-YAOG_unamed            11 mins             ███████░░░░░░░░░░░░░░░░░░   28.4%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -57,5 +56,5 @@ Verilog                  2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2022 02:02:50 UTC
+ Last Updated on 18/07/2022 02:00:57 UTC
 <!--END_SECTION:waka-->
