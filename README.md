@@ -30,39 +30,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 37 mins       ███████████████████░░░░░░   79.09% 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
-Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.96% 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+JavaScript               6 hrs 56 mins       █████████████████████░░░░   85.62% 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+Vue.js                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 6 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Yunzai-Bot               3 hrs 31 mins       ███████████████████░░░░░░   77.02% 
-tarot                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-python_hw                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
-blog-management          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
-fastapi-jwt              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
+Yunzai-Bot               6 hrs 27 mins       ████████████████████░░░░░   79.59% 
+tarot                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+l-plugin                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+blog-management          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+fastapi-jwt              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
 💻 Operating System: 
-Linux                    4 hrs 34 mins       █████████████████████████   100.0%
+Linux                    8 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Verilog                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Verilog                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 
 
 
- Last Updated on 29/07/2022 02:09:14 UTC
+ Last Updated on 31/07/2022 02:10:50 UTC
 <!--END_SECTION:waka-->
