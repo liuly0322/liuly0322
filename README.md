@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](http://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2038%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,5 +60,5 @@ JavaScript               3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 17/08/2022 02:11:15 UTC
+ Last Updated on 18/08/2022 02:10:37 UTC
 <!--END_SECTION:waka-->
