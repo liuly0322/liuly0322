@@ -18,8 +18,8 @@ Ubuntu / VS Code
 
 💬 **More Info**
 
-- [My homepage](http://home.ustc.edu.cn/~liuly0322/home/)
-- [My blog](http://blog.liuly.moe/)
+- [My homepage](https://liuly.moe/)
+- [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2036%20mins-blue)
