@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -64,5 +64,5 @@ Verilog                  2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2022 02:05:21 UTC
+ Last Updated on 02/09/2022 02:11:28 UTC
 <!--END_SECTION:waka-->
