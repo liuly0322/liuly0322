@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-405%20hrs%2058%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,36 +30,36 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   38.28% 
-C++                      49 mins             ███████░░░░░░░░░░░░░░░░░░   28.85% 
-Vue.js                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.93% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+TypeScript               1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   36.59% 
+Python                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.54% 
+C++                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Vue.js                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 40 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ics                      1 hr 49 mins        ████████████████░░░░░░░░░   63.56% 
-USTC-CS-COURSE-HW        1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   36.44%
+ics                      2 hrs 36 mins       ██████████████░░░░░░░░░░░   55.94% 
+USTC-CS-COURSE-HW        2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   44.06%
 
 💻 Operating System: 
-WSL                      2 hrs 52 mins       █████████████████████████   100.0%
+WSL                      4 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+C++                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Verilog                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
 
 ```
 
 
 
- Last Updated on 16/10/2022 02:30:59 UTC
+ Last Updated on 17/10/2022 02:33:24 UTC
 <!--END_SECTION:waka-->
