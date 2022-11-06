@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -64,5 +64,5 @@ Rust                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2022 01:53:48 UTC
+ Last Updated on 06/11/2022 01:56:21 UTC
 <!--END_SECTION:waka-->
