@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2057%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,39 +30,39 @@ Ubuntu / VS Code
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   43.34% 
-TypeScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
-Assembly                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
-C++                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
-LLVM                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.09%
+Markdown                 2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.15% 
+LLVM                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+TypeScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+Assembly                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+C++                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 38 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ics                      2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.55% 
-expProject134-760        1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   29.74% 
-LAB_A_Attachment         1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   23.4% 
-LAB_S_Attachment         17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-USTC-CS-COURSE-HW        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+expProject134-760        3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.71% 
+ics                      2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   34.67% 
+LAB_A_Attachment         1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.25% 
+LAB_S_Attachment         17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
+USTC-CS-COURSE-HW        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 💻 Operating System: 
-WSL                      6 hrs 17 mins       █████████████████████████   100.0%
+WSL                      7 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+C++                      7 repos             ███████░░░░░░░░░░░░░░░░░░   30.43% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 
 
 
- Last Updated on 04/12/2022 01:26:04 UTC
+ Last Updated on 05/12/2022 01:24:03 UTC
 <!--END_SECTION:waka-->
