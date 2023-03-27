@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,36 +30,35 @@ Ubuntu / VS Code
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      24 mins             ████████░░░░░░░░░░░░░░░░░   32.57 % 
-Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Python                   3 hrs 3 mins        ████████████████████░░░░░   79.76 % 
+C++                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+LLVM                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-temp                     1 hr 2 mins         █████████████████████░░░░   83.44 % 
-osh-2023                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-compiler                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+temp                     3 hrs 48 mins       █████████████████████████   99.54 % 
+compiler                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-WSL                      1 hr 14 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in C++** 
+**I Mostly Code in C** 
 
 ```text
-C++                      14 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
-C                        9 repos             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        14 repos            ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+C++                      14 repos            ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
 
 
- Last Updated on 26/03/2023 01:22:58 UTC
+ Last Updated on 27/03/2023 01:16:23 UTC
 <!--END_SECTION:waka-->
