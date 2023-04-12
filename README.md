@@ -22,7 +22,7 @@ Ubuntu / VS Code
 - [My blog](https://blog.liuly.moe/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,38 +30,38 @@ Ubuntu / VS Code
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Go                       3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-SQL                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+V                        5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Go                       3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+SQL                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+C++                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Markdown                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calab-verilog            6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
-temp                     3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-blockchainlab2023        3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Q-Blog                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-osh-2023                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+calab-verilog            8 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
+temp                     3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+blockchainlab2023        3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+verilator-tb-ustc-calab  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Q-Blog                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-WSL                      16 hrs 11 mins      █████████████████████████   100.00 % 
+WSL                      20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      24 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
-C                        23 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+C++                      25 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
+C                        23 repos            ████████░░░░░░░░░░░░░░░░░   32.86 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 11/04/2023 01:14:39 UTC
+ Last Updated on 12/04/2023 01:14:45 UTC
 <!--END_SECTION:waka-->
