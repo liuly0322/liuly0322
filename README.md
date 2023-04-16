@@ -18,8 +18,9 @@ Ubuntu / VS Code
 
 💬 **More Info**
 
-- [My homepage](https://liuly.moe/)
-- [My blog](https://blog.liuly.moe/)
+- Homepage: <https://liuly.moe/>
+- Blog: <https://blog.liuly.moe/>
+- Telegram Channel: <https://t.me/liuly_home>
 
 📝 **Recent Blog Posts**
 <!-- feed start -->
