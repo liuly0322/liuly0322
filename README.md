@@ -21,6 +21,10 @@ Ubuntu / VS Code
 - [My homepage](https://liuly.moe/)
 - [My blog](https://blog.liuly.moe/)
 
+📝 **Recent Blog Posts**
+<!-- feed start -->
+<!-- feed end -->
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2023%20mins-blue)
 

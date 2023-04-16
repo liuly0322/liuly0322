@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Readme
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -21,3 +21,9 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://blog.liuly.moe/feed.xml'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
