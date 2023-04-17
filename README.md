@@ -12,10 +12,6 @@ I'm **liuly**.
 ![](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=fff)
 ![](https://img.shields.io/badge/-Rust-ff4136?style=flat-square&logo=Rust&logoColor=fff)
 
-📫 **Platform**
-
-Ubuntu / VS Code
-
 💬 **More Info**
 
 - Homepage: <https://liuly.moe/>
