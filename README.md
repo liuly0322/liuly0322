@@ -36,38 +36,26 @@ I'm **liuly**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.64 % 
-JavaScript               2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-SQL                      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Assembly                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+JavaScript               5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+V                        5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Assembly                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+C++                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calab-verilog            9 hrs 18 mins       ███████████████░░░░░░░░░░   60.54 % 
-temp                     3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-verilator-tb-ustc-calab  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-xls-plugin               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-blockchainlab2023        18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+calab-verilog            9 hrs 18 mins       █████████████░░░░░░░░░░░░   53.29 % 
+fpgaol                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+verilator-tb-ustc-calab  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+chat_learning_plugin     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+xls-plugin               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 💻 Operating System: 
-WSL                      15 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      30 repos            ██████████░░░░░░░░░░░░░░░   41.10 % 
-C                        18 repos            ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Tcl                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+WSL                      17 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
-
-
- Last Updated on 16/04/2023 14:50:00 UTC
+ Last Updated on 17/04/2023 00:17:16 UTC
 <!--END_SECTION:waka-->
