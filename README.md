@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,26 +37,27 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
-V                        5 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Assembly                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-C++                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JavaScript               4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
+Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+C++                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+V                        49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Vue.js                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-calab-verilog            9 hrs 18 mins       █████████████░░░░░░░░░░░░   53.29 % 
-fpgaol                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-verilator-tb-ustc-calab  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-chat_learning_plugin     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-xls-plugin               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+fpgaol                   3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+calab-verilog            3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+verilator-tb-ustc-calab  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+chat_learning_plugin     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+xls-plugin               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 
 💻 Operating System: 
-WSL                      17 hrs 27 mins      █████████████████████████   100.00 % 
+WSL                      10 hrs 57 mins      █████████████████████████   99.61 % 
+Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 
- Last Updated on 17/04/2023 01:02:58 UTC
+ Last Updated on 18/04/2023 01:00:50 UTC
 <!--END_SECTION:waka-->
