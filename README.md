@@ -37,27 +37,27 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.55 % 
-C++                      5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Markdown                 4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+C                        7 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.66 % 
+Markdown                 4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+C++                      2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-xv6-labs-2021            7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
-cpp                      5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-osh-2023                 2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-MIT-6.S081-labs-fa21     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-shell                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+xv6-labs-2021            7 hrs 54 mins       █████████████░░░░░░░░░░░░   53.53 % 
+osh-2023                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+MIT-6.S081-labs-fa21     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+cpp                      1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+shell                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-WSL                      10 hrs 12 mins      ██████████████░░░░░░░░░░░   56.34 % 
-Linux                    7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
+Linux                    7 hrs 54 mins       █████████████░░░░░░░░░░░░   53.53 % 
+WSL                      6 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.47 % 
 ```
 
 
- Last Updated on 28/04/2023 01:03:58 UTC
+ Last Updated on 29/04/2023 01:02:06 UTC
 <!--END_SECTION:waka-->
