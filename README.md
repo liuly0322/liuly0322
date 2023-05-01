@@ -37,26 +37,18 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        7 hrs 20 mins       ██████████████░░░░░░░░░░░   57.82 % 
-Markdown                 4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-xv6-labs-2021            7 hrs 54 mins       ████████████████░░░░░░░░░   62.34 % 
-osh-2023                 2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-MIT-6.S081-labs-fa21     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-shell                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    7 hrs 54 mins       ████████████████░░░░░░░░░   62.34 % 
-WSL                      4 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.66 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/04/2023 01:08:36 UTC
+ Last Updated on 01/05/2023 01:06:36 UTC
 <!--END_SECTION:waka-->
