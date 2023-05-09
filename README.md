@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,26 +37,24 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-NuSMV                    3 hrs 14 mins       ███████████████████░░░░░░   75.27 % 
-SQL                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+NuSMV                    3 hrs 14 mins       ██████████████████░░░░░░░   71.28 % 
+Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NuSMV                    3 hrs 36 mins       █████████████████████░░░░   83.69 % 
-lab1                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-sql                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-osh-2023                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+NuSMV                    3 hrs 36 mins       ████████████████████░░░░░   79.25 % 
+lab1                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+sql                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-WSL                      3 hrs 57 mins       ███████████████████████░░   92.03 % 
-Windows                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+WSL                      3 hrs 47 mins       █████████████████████░░░░   83.30 % 
+Windows                  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 ```
 
 
- Last Updated on 08/05/2023 01:01:03 UTC
+ Last Updated on 09/05/2023 01:04:02 UTC
 <!--END_SECTION:waka-->
