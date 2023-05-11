@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2033%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,27 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-NuSMV                    1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   39.72 % 
-SystemVerilog            1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-SQL                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Vue.js                   3 hrs               ███████████░░░░░░░░░░░░░░   44.31 % 
+SystemVerilog            1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+SQL                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NuSMV                    2 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.53 % 
-lab3                     1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
-lab1                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-sql                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-verilator-tb-ustc-calab  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+fpgaol                   3 hrs 34 mins       █████████████░░░░░░░░░░░░   52.67 % 
+lab3                     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.07 % 
+lab1                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+verilator-tb-ustc-calab  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-WSL                      3 hrs 59 mins       █████████████████████░░░░   84.02 % 
-Windows                  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+WSL                      6 hrs 2 mins        ██████████████████████░░░   88.82 % 
+Windows                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
 
- Last Updated on 10/05/2023 01:01:51 UTC
+ Last Updated on 11/05/2023 01:02:51 UTC
 <!--END_SECTION:waka-->
