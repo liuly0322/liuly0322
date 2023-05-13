@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2026%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.81 % 
-SystemVerilog            1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-V                        1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Vue.js                   4 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.31 % 
+SystemVerilog            1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+V                        1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fpgaol                   5 hrs 10 mins       ██████████████░░░░░░░░░░░   54.83 % 
-lab3                     3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.06 % 
-lab1                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+fpgaol                   5 hrs 11 mins       █████████████░░░░░░░░░░░░   52.00 % 
+lab3                     4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.34 % 
+lab1                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 verilator-tb-ustc-calab  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-WSL                      8 hrs 27 mins       ██████████████████████░░░   89.67 % 
-Windows                  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+WSL                      8 hrs 30 mins       █████████████████████░░░░   85.23 % 
+Windows                  1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 ```
 
 
- Last Updated on 12/05/2023 01:03:18 UTC
+ Last Updated on 13/05/2023 01:00:29 UTC
 <!--END_SECTION:waka-->
