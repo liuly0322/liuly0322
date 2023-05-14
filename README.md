@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.31 % 
-SystemVerilog            1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-V                        1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Vue.js                   4 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.39 % 
+SystemVerilog            1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+V                        1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fpgaol                   5 hrs 11 mins       █████████████░░░░░░░░░░░░   52.00 % 
-lab3                     4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.34 % 
-lab1                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+fpgaol                   5 hrs 11 mins       █████████████░░░░░░░░░░░░   52.09 % 
+lab3                     4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.41 % 
+lab1                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 verilator-tb-ustc-calab  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-WSL                      8 hrs 30 mins       █████████████████████░░░░   85.23 % 
-Windows                  1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+WSL                      8 hrs 30 mins       █████████████████████░░░░   85.38 % 
+Windows                  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
- Last Updated on 13/05/2023 01:00:29 UTC
+ Last Updated on 14/05/2023 01:06:22 UTC
 <!--END_SECTION:waka-->
