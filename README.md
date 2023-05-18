@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,27 +37,27 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
-C                        3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-Go                       1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-V                        1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+C                        3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.78 % 
+Vue.js                   2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Go                       1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+V                        46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fpgaol                   5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.17 % 
-nju-os                   3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-lab3                     2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-block_chain              1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-coroutine                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+nju-os                   3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+fpgaol                   2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+block_chain              1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+lab3                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+coroutine                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 💻 Operating System: 
-WSL                      12 hrs 8 mins       ███████████████████████░░   93.91 % 
-Windows                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+WSL                      8 hrs 19 mins       ███████████████████████░░   91.36 % 
+Windows                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 ```
 
 
- Last Updated on 17/05/2023 01:05:14 UTC
+ Last Updated on 18/05/2023 01:02:51 UTC
 <!--END_SECTION:waka-->
