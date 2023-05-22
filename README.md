@@ -37,27 +37,19 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        3 hrs 21 mins       ██████████████░░░░░░░░░░░   56.66 % 
-Go                       1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Vue.js                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Vue.js                   36 mins             █████████████████████████   99.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nju-os                   3 hrs 2 mins        █████████████░░░░░░░░░░░░   51.50 % 
-block_chain              1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-fpgaol                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-coroutine                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+fpgaol                   36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 50 mins       █████████████████████████   98.79 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+WSL                      36 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2023 01:07:19 UTC
+ Last Updated on 22/05/2023 01:06:47 UTC
 <!--END_SECTION:waka-->
