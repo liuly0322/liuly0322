@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,19 +37,23 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   36 mins             █████████████████████████   99.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+C++                      3 hrs 20 mins       ███████████████████░░░░░░   77.95 % 
+Vue.js                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fpgaol                   36 mins             █████████████████████████   100.00 % 
+astar                    3 hrs 40 mins       █████████████████████░░░░   85.66 % 
+fpgaol                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 
 💻 Operating System: 
-WSL                      36 mins             █████████████████████████   100.00 % 
+WSL                      4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/05/2023 01:06:47 UTC
+ Last Updated on 23/05/2023 01:03:22 UTC
 <!--END_SECTION:waka-->
