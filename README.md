@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2039%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,25 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 5 mins        ███████████████████████░░   90.33 % 
-Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+C++                      12 hrs 30 mins      █████████████████████░░░░   84.61 % 
+SystemVerilog            57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+V                        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Makefile                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astar                    8 hrs 53 mins       █████████████████████████   99.13 % 
-lab4                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+astar                    13 hrs 21 mins      ███████████████████████░░   90.37 % 
+new_lab4                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+lab4                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-WSL                      8 hrs 53 mins       █████████████████████████   99.13 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+WSL                      14 hrs 42 mins      █████████████████████████   99.47 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 
- Last Updated on 25/05/2023 01:04:03 UTC
+ Last Updated on 26/05/2023 01:03:14 UTC
 <!--END_SECTION:waka-->
