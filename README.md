@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2025%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,27 +37,27 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 47 mins       ███████████████░░░░░░░░░░   59.81 % 
-Markdown                 2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Text                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-C                        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+C++                      5 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.23 % 
+Markdown                 2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Text                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+C                        1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+HTML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 46 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astar                    7 hrs 10 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-csp                      2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-starter_code             2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-msra                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-new_lab4                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+astar                    3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+csp                      2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+starter_code             2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+msra                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+lab_CA                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 💻 Operating System: 
-WSL                      13 hrs 51 mins      ████████████████████████░   94.26 % 
-Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+WSL                      11 hrs 55 mins      ███████████████████████░░   93.39 % 
+Windows                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 
 
- Last Updated on 02/06/2023 01:13:54 UTC
+ Last Updated on 03/06/2023 01:12:00 UTC
 <!--END_SECTION:waka-->
