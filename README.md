@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,27 +37,27 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Cuda                     1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Markdown                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-C                        1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-HTML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Makefile                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Cuda                     1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
+C++                      1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Markdown                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+C                        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Makefile                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab_CA                   4 hrs 35 mins       █████████████████░░░░░░░░   67.15 % 
-msra                     1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-osh-2023                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-PLDPA                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-ubuntu                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+lab_CA                   3 hrs 38 mins       ██████████████░░░░░░░░░░░   57.52 % 
+osh-2023                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+msra                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+PLDPA                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+ubuntu                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-WSL                      6 hrs 38 mins       ████████████████████████░   96.91 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+WSL                      6 hrs 6 mins        ████████████████████████░   96.25 % 
+Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
- Last Updated on 09/06/2023 01:15:02 UTC
+ Last Updated on 10/06/2023 01:08:14 UTC
 <!--END_SECTION:waka-->
