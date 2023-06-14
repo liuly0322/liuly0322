@@ -37,27 +37,23 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 20 mins        █████████████████████░░░░   83.49 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C++                      1 hr 20 mins        ████████████████████████░   96.38 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-osh-2023                 1 hr 19 mins        ████████████████████░░░░░   81.85 % 
-PLDPA                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-ubuntu                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-oneAPI_course            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-block_chain              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+osh-2023                 1 hr 19 mins        ████████████████████████░   94.48 % 
+ubuntu                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+oneAPI_course            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-WSL                      1 hr 22 mins        █████████████████████░░░░   85.22 % 
-Windows                  14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+WSL                      1 hr 22 mins        █████████████████████████   98.10 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 
- Last Updated on 13/06/2023 01:11:33 UTC
+ Last Updated on 14/06/2023 01:09:53 UTC
 <!--END_SECTION:waka-->
