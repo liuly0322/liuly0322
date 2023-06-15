@@ -37,23 +37,20 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 20 mins        ████████████████████████░   96.38 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+C++                      1 hr 20 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-osh-2023                 1 hr 19 mins        ████████████████████████░   94.48 % 
-ubuntu                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-oneAPI_course            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+osh-2023                 1 hr 19 mins        █████████████████████████   98.03 % 
+oneAPI_course            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-WSL                      1 hr 22 mins        █████████████████████████   98.10 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+WSL                      1 hr 19 mins        █████████████████████████   98.03 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 
- Last Updated on 14/06/2023 01:09:53 UTC
+ Last Updated on 15/06/2023 01:09:57 UTC
 <!--END_SECTION:waka-->
