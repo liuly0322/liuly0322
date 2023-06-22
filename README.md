@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,21 +37,23 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     28 mins             ███████████████████████░░   91.73 % 
-C                        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+HTML                     28 mins             █████████████████████░░░░   85.62 % 
+C                        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MIT-6.S081-labs-fa21     30 mins             █████████████████████████   100.00 % 
+MIT-6.S081-labs-fa21     30 mins             ███████████████████████░░   93.34 % 
+block_chain              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 💻 Operating System: 
-WSL                      30 mins             █████████████████████████   100.00 % 
+WSL                      32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2023 01:10:30 UTC
+ Last Updated on 22/06/2023 01:11:47 UTC
 <!--END_SECTION:waka-->
