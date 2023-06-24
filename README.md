@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,23 +37,23 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     28 mins             █████████████████████░░░░   85.62 % 
-C                        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Go                       2 hrs 21 mins       █████████████████░░░░░░░░   67.35 % 
+Markdown                 38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+HTML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MIT-6.S081-labs-fa21     30 mins             ███████████████████████░░   93.34 % 
-block_chain              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+block_chain              2 hrs 59 mins       █████████████████████░░░░   85.35 % 
+MIT-6.S081-labs-fa21     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 
 💻 Operating System: 
-WSL                      32 mins             █████████████████████████   100.00 % 
+WSL                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2023 01:18:45 UTC
+ Last Updated on 24/06/2023 01:18:15 UTC
 <!--END_SECTION:waka-->
