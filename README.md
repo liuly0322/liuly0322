@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,25 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   10 hrs 6 mins       █████████████░░░░░░░░░░░░   53.95 % 
-TypeScript               4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Go                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Vue.js                   10 hrs 11 mins      █████████████░░░░░░░░░░░░   51.17 % 
+TypeScript               4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Go                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 54 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teacher-management       14 hrs 51 mins      ████████████████████░░░░░   79.30 % 
-block_chain              2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-teacher-management-system50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-nuxt-prisma              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+teacher-management       15 hrs 20 mins      ███████████████████░░░░░░   77.07 % 
+block_chain              2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+teacher-management-system50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+course                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+nuxt-prisma              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-WSL                      18 hrs 44 mins      █████████████████████████   100.00 % 
+WSL                      19 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2023 01:20:02 UTC
+ Last Updated on 27/06/2023 01:21:45 UTC
 <!--END_SECTION:waka-->
