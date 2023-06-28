@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   10 hrs 11 mins      █████████████░░░░░░░░░░░░   51.17 % 
-TypeScript               4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Go                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Vue.js                   10 hrs 34 mins      █████████████░░░░░░░░░░░░   51.18 % 
+TypeScript               4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Go                       2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teacher-management       15 hrs 20 mins      ███████████████████░░░░░░   77.07 % 
-block_chain              2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-teacher-management-system50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-course                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-nuxt-prisma              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+teacher-management       16 hrs 5 mins       ███████████████████░░░░░░   77.91 % 
+block_chain              2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+teacher-management-system50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+course                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+nuxt-prisma              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-WSL                      19 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      20 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2023 01:21:45 UTC
+ Last Updated on 28/06/2023 01:20:44 UTC
 <!--END_SECTION:waka-->
