@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2010%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   11 hrs 5 mins       ████████████░░░░░░░░░░░░░   46.04 % 
-TypeScript               4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Python                   4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Vue.js                   6 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.44 % 
+Python                   5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+TypeScript               2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  16 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-teacher-management       16 hrs 58 mins      ██████████████████░░░░░░░   70.46 % 
-EXP2_files               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-rectangle-fitting        2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-teacher-management-system50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-course                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+teacher-management       9 hrs 19 mins       ██████████████░░░░░░░░░░░   56.95 % 
+EXP2_files               3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+rectangle-fitting        2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+course                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+block_chain              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-WSL                      24 hrs 5 mins       █████████████████████████   100.00 % 
+WSL                      16 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2023 01:25:21 UTC
+ Last Updated on 02/07/2023 01:22:39 UTC
 <!--END_SECTION:waka-->
