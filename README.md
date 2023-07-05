@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 13 mins       ███████████████░░░░░░░░░░   58.60 % 
-Vue.js                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Python                   5 hrs 13 mins       ████████████████░░░░░░░░░   64.04 % 
+Vue.js                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Solidity                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EXP2_files               3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.45 % 
-rectangle-fitting        2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-teacher-management       1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Q-Blog                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-block_chain              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+EXP2_files               3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
+rectangle-fitting        2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Q-Blog                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+teacher-management       52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+block_chain              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 💻 Operating System: 
-WSL                      8 hrs 54 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2023 01:19:19 UTC
+ Last Updated on 05/07/2023 01:20:12 UTC
 <!--END_SECTION:waka-->
