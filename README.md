@@ -37,26 +37,25 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 3 mins        ██████████████████░░░░░░░   72.74 % 
-Vue.js                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Solidity                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python                   4 hrs 3 mins        █████████████████░░░░░░░░   69.28 % 
+Vue.js                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Solidity                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EXP2_files               3 hrs 30 mins       █████████████░░░░░░░░░░░░   50.45 % 
-rectangle-fitting        2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Q-Blog                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-block_chain              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-teacher-management       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+EXP2_files               3 hrs 30 mins       ███████████████░░░░░░░░░░   59.85 % 
+rectangle-fitting        1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Q-Blog                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+block_chain              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 💻 Operating System: 
-WSL                      6 hrs 57 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2023 01:21:06 UTC
+ Last Updated on 07/07/2023 01:21:32 UTC
 <!--END_SECTION:waka-->
