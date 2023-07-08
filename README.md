@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,25 +37,25 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 3 mins        █████████████████░░░░░░░░   69.28 % 
-Vue.js                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Solidity                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Vue.js                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+C++                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EXP2_files               3 hrs 30 mins       ███████████████░░░░░░░░░░   59.85 % 
-rectangle-fitting        1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Q-Blog                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-block_chain              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+EXP2_files               1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+tipc-passes              1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Q-Blog                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+tipc                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 💻 Operating System: 
-WSL                      5 hrs 52 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2023 01:21:32 UTC
+ Last Updated on 08/07/2023 01:20:00 UTC
 <!--END_SECTION:waka-->
