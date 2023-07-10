@@ -37,25 +37,24 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   54 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-C++                      34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Other                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+C++                      34 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Other                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+CMake                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tipc-passes              1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   41.32 % 
-Q-Blog                   54 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-EXP2_files               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-tipc                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+tipc-passes              1 hr 6 mins         ████████████████░░░░░░░░░   62.34 % 
+EXP2_files               21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+tipc                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
 
 💻 Operating System: 
-WSL                      2 hrs 41 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2023 01:24:18 UTC
+ Last Updated on 10/07/2023 01:18:18 UTC
 <!--END_SECTION:waka-->
