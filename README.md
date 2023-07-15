@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,24 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 13 mins       ██████████████░░░░░░░░░░░   57.40 % 
-C++                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Python                   2 hrs 1 min         ███████████████░░░░░░░░░░   59.66 % 
+Markdown                 58 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EXP2_files               2 hrs 27 mins       ████████████████░░░░░░░░░   63.32 % 
-tipc-passes              1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-tipc                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+EXP2_files               2 hrs 5 mins        ███████████████░░░░░░░░░░   61.61 % 
+SMGJ222                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+osh                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+AmberHeart               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+TyrionHu                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 💻 Operating System: 
-WSL                      3 hrs 53 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/07/2023 01:20:40 UTC
+ Last Updated on 15/07/2023 01:19:31 UTC
 <!--END_SECTION:waka-->
