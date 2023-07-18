@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ███████████████░░░░░░░░░░   59.66 % 
-Markdown                 58 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-C++                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 54 mins             ██████████████████░░░░░░░   70.02 % 
+C++                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EXP2_files               2 hrs 5 mins        ███████████████░░░░░░░░░░   61.61 % 
-SMGJ222                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-osh                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-AmberHeart               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-TyrionHu                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+SMGJ222                  14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+osh                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+AmberHeart               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+TyrionHu                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Gjmustc                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 💻 Operating System: 
-WSL                      3 hrs 24 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2023 01:21:48 UTC
+ Last Updated on 18/07/2023 01:41:29 UTC
 <!--END_SECTION:waka-->
