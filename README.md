@@ -37,26 +37,18 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 54 mins             ██████████████████░░░░░░░   70.02 % 
-C++                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Python                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-C                        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SMGJ222                  14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-osh                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-AmberHeart               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-TyrionHu                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Gjmustc                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 18 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2023 01:08:07 UTC
+ Last Updated on 23/07/2023 01:12:59 UTC
 <!--END_SECTION:waka-->
