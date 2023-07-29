@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2022%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,21 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              ███████████████████████░░   90.80 % 
-SSH Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+YAML                     1 hr 19 mins        ████████████████░░░░░░░░░   63.23 % 
+Python                   27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-course                   0 secs              ███████████████████████░░   90.80 % 
-Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+robot                    2 hrs 3 mins        █████████████████████████   98.67 % 
+course                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+rrt_exploration          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-WSL                      0 secs              ███████████████████████░░   90.80 % 
-Windows                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+WSL                      2 hrs 5 mins        █████████████████████████   99.94 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 
- Last Updated on 28/07/2023 01:01:48 UTC
+ Last Updated on 29/07/2023 01:02:59 UTC
 <!--END_SECTION:waka-->
