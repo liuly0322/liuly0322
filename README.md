@@ -29,7 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2057%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,26 +37,26 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 19 mins        ████████████████░░░░░░░░░   63.23 % 
-Python                   27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML                     1 hr 23 mins        █████████████░░░░░░░░░░░░   51.68 % 
+Python                   57 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-robot                    2 hrs 3 mins        █████████████████████████   98.67 % 
-course                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-rrt_exploration          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+robot                    2 hrs 39 mins       █████████████████████████   98.97 % 
+course                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+rrt_exploration          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-WSL                      2 hrs 5 mins        █████████████████████████   99.94 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+WSL                      2 hrs 40 mins       █████████████████████████   99.95 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
- Last Updated on 31/07/2023 01:05:04 UTC
+ Last Updated on 01/08/2023 01:09:13 UTC
 <!--END_SECTION:waka-->
