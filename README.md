@@ -2,7 +2,7 @@
 
 I'm liuly, a current undergraduate student at the University of Science and Technology of China.
 
-- 🌱 Currently interning at MSR Asia-Shanghai Wireless Group.
+- 🌱 Currently an intern at MSR Asia-Shanghai Wireless Group.
 - 🐶 Homepage: <https://liuly.moe/>.
 - 💬 Telegram Channel: <https://t.me/liuly_home>.
 - 🕊️ Blog: <https://blog.liuly.moe/>.
