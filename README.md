@@ -37,26 +37,23 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 23 mins        █████████████░░░░░░░░░░░░   51.68 % 
-Python                   57 mins             █████████░░░░░░░░░░░░░░░░   35.51 % 
-Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+YAML                     1 hr 23 mins        █████████████░░░░░░░░░░░░   51.96 % 
+Python                   57 mins             █████████░░░░░░░░░░░░░░░░   35.71 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-robot                    2 hrs 39 mins       █████████████████████████   98.97 % 
-course                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+robot                    2 hrs 39 mins       █████████████████████████   99.51 % 
 rrt_exploration          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-WSL                      2 hrs 40 mins       █████████████████████████   99.95 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+WSL                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/08/2023 01:01:05 UTC
+ Last Updated on 03/08/2023 01:03:25 UTC
 <!--END_SECTION:waka-->
