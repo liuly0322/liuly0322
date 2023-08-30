@@ -30,7 +30,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-922%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,16 +38,16 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 12 mins      ██████████████████████░░░   89.66 % 
-C++                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Prolog                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Lua                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Python                   14 hrs 43 mins      █████████████████████░░░░   84.33 % 
+C++                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Prolog                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2023-08-29 00:53:43 UTC
+ Last Updated on 2023-08-30 00:53:22 UTC
 <!--END_SECTION:waka-->
