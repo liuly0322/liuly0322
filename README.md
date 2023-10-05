@@ -38,16 +38,12 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   50 mins             ██████████████████████░░░   89.15 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-10-04 00:55:31 UTC
+ Last Updated on 2023-10-05 00:54:59 UTC
 <!--END_SECTION:waka-->
