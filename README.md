@@ -30,7 +30,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-957%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,6 +48,10 @@ Markdown                 54 mins             ███░░░░░░░░�
 VS Code                  8 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
+**Timeline**
 
- Last Updated on 2023-10-13 00:56:17 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
+
+
+ Last Updated on 2023-10-13 05:55:12 UTC
 <!--END_SECTION:waka-->
