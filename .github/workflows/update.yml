@@ -27,6 +27,7 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
