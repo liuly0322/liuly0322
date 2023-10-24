@@ -13,11 +13,11 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 
 #### 📝 Recent Blog Posts
 <!-- feed start -->
+- Oct 20 - [GeekGame 2023 个人题解](https://blog.liuly.moe/posts/geekgame_v3)
 - Mar 03 - [大蜀山游记「偷得浮生半日闲」](https://blog.liuly.moe/posts/to-dashu)
 - Feb 07 - [LLVM IR 稀疏条件常量传播优化及 WASM 初探](https://blog.liuly.moe/posts/compiler)
 - Oct 29 - [Hackergame 2022 个人题解](https://blog.liuly.moe/posts/hackergame)
 - Sep 09 - [集合间并集个数计算](https://blog.liuly.moe/posts/set-union)
-- Sep 07 - [SSH Tunnel 连接远程服务](https://blog.liuly.moe/posts/ssh-tunnel)
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
