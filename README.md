@@ -21,7 +21,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,10 +29,11 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 15 mins       █████████████████░░░░░░░░   69.08 % 
-Markdown                 2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   6 hrs 18 mins       ███████████████░░░░░░░░░░   61.33 % 
+Markdown                 2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+C++                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Cuda                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 **Timeline**
@@ -40,5 +41,5 @@ Rust                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-11-03 00:57:12 UTC
+ Last Updated on 2023-11-04 00:56:26 UTC
 <!--END_SECTION:waka-->
