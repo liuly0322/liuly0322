@@ -21,7 +21,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2035%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -41,5 +41,5 @@ Other                    0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-11-13 00:59:25 UTC
+ Last Updated on 2023-11-14 00:57:58 UTC
 <!--END_SECTION:waka-->
