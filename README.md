@@ -29,11 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-MATLAB                   52 mins             ██████████████████████░░░   89.89 % 
-Objective-C              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -41,5 +37,5 @@ TypeScript               0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-12-01 01:04:56 UTC
+ Last Updated on 2023-12-02 00:57:57 UTC
 <!--END_SECTION:waka-->
