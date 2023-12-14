@@ -29,11 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Python                   50 mins             ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Markdown                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -41,5 +37,5 @@ Other                    9 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-12-13 01:00:24 UTC
+ Last Updated on 2023-12-14 00:59:27 UTC
 <!--END_SECTION:waka-->
