@@ -29,8 +29,7 @@ I'm liuly, a current undergraduate student at the University of Science and Tech
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 mins             ███████████████████░░░░░░   75.10 % 
-Java                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Python                   7 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -38,5 +37,5 @@ Java                     4 mins              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-01-03 00:59:36 UTC
+ Last Updated on 2024-01-04 00:59:30 UTC
 <!--END_SECTION:waka-->
