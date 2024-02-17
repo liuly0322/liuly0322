@@ -20,7 +20,7 @@ I'm a student studying in USTC (University of Science and Technology of China).
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2030%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,7 +28,11 @@ I'm a student studying in USTC (University of Science and Technology of China).
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 35 mins        ████████████████████░░░░░   79.58 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **Timeline**
@@ -36,5 +40,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-02-16 00:56:10 UTC
+ Last Updated on 2024-02-17 00:55:41 UTC
 <!--END_SECTION:waka-->
