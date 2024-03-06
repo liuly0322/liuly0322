@@ -12,11 +12,11 @@ I'm a student studying in USTC (University of Science and Technology of China).
 
 #### 📝 Recent Blog Posts
 <!-- feed start -->
+- Mar 05 - [记一次打包体积优化](https://blog.liuly.moe/posts/tree-shaking)
 - Feb 26 - [PWA 补完计划](https://blog.liuly.moe/posts/pwa)
 - Feb 23 - [Anime List!](https://blog.liuly.moe/posts/bangumi_anime_list)
 - Feb 22 - [从零开始的调试器编写！](https://blog.liuly.moe/posts/debugger-from-scratch)
 - Oct 20 - [GeekGame 2023 个人题解](https://blog.liuly.moe/posts/geekgame_v3)
-- Mar 03 - [大蜀山游记「偷得浮生半日闲」](https://blog.liuly.moe/posts/to-dashu)
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
