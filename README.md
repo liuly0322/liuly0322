@@ -10,9 +10,7 @@ I'm a student studying in USTC (University of Science and Technology of China).
 
 <img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuly0322&theme=vue">
 
-#### 📝 Recent Blog Posts
-
-[Subscribe](https://blog.liuly.moe/feed.xml)!
+#### 📝 Recent Blog Posts ([Subscribe](https://blog.liuly.moe/feed.xml))
 
 <!-- feed start -->
 - Mar 05 - [记一次打包体积优化](https://blog.liuly.moe/posts/tree-shaking)
