@@ -3,7 +3,6 @@
 I'm a student studying in USTC (University of Science and Technology of China).
 
 - 🐶 Homepage: <https://liuly.moe/>.
-- 💬 Telegram Channel: <https://t.me/liuly_home>.
 - 🕊️ Blog: <https://blog.liuly.moe/>.
 
 ---
