@@ -7,7 +7,9 @@ I'm a student studying in USTC (University of Science and Technology of China).
 
 ---
 
-<img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuly0322&theme=vue">
+<details><summary>GitHub stats</summary>
+<img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuly0322&theme=vue">
+</details>
 
 #### 📝 Recent Blog Posts ([Subscribe](https://blog.liuly.moe/feed.xml))
 
