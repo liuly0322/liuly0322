@@ -20,7 +20,7 @@ I'm a student studying in USTC (University of Science and Technology of China).
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,11 +28,11 @@ I'm a student studying in USTC (University of Science and Technology of China).
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 33 mins      ██████████████████░░░░░░░   73.20 % 
-JavaScript               4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Vue.js                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TypeScript               20 hrs 53 mins      ██████████████████░░░░░░░   70.81 % 
+JavaScript               7 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 **Timeline**
@@ -40,5 +40,5 @@ Other                    20 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-03-24 01:02:22 UTC
+ Last Updated on 2024-03-25 00:58:39 UTC
 <!--END_SECTION:waka-->
