@@ -26,7 +26,7 @@ I'm a student studying in USTC (University of Science and Technology of China).
 <!-- feed end -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,13 +34,13 @@ I'm a student studying in USTC (University of Science and Technology of China).
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               24 hrs 31 mins      ███████████████████░░░░░░   74.14 % 
-JavaScript               7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Markdown                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               25 hrs 54 mins      ██████████████████░░░░░░░   73.53 % 
+JavaScript               8 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
- Last Updated on 2024-03-25 20:01:49 UTC
+ Last Updated on 2024-03-26 20:00:57 UTC
 <!--END_SECTION:waka-->
