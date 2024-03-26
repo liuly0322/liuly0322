@@ -7,8 +7,12 @@ I'm a student studying in USTC (University of Science and Technology of China).
 
 ---
 
-<details><summary>GitHub stats</summary>
+<details><summary>GitHub stats light</summary>
 <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuly0322&theme=vue">
+</details>
+
+<details><summary>GitHub stats dark</summary>
+<img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuly0322&theme=dark">
 </details>
 
 #### 📝 Recent Blog Posts ([Subscribe](https://blog.liuly.moe/feed.xml))
