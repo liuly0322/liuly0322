@@ -1,0 +1,16 @@
+name: Update Readme
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://blog.liuly.moe/feed.xml'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
