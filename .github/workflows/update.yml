@@ -13,5 +13,5 @@ jobs:
         with:
           url: 'https://blog.liuly.moe/feed.xml'
           file: 'README.md'
-          format: '- ${02month}-${02day} - [${title}](${url})'
+          format: '- ${02month}-${02day}: [${title}](${url})'
       - uses: sarisia/actions-commit@master
