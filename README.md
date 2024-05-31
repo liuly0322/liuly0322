@@ -5,7 +5,7 @@ I'm an undergraduate student majoring in Computer Science at USTC, passionate ab
 - 🐶 Homepage: <https://liuly.moe/>.
 - 🕊️ Blog: <https://blog.liuly.moe/>.
 
-### 📝 Recent Posts ([Subscribe](https://blog.liuly.moe/feed.xml))
+### 📝 Recent (zh-CN, [Subscribe](https://blog.liuly.moe/feed.xml))
 
 <!-- feed start -->
 - 05-17: [部分求值与程序特化](https://blog.liuly.moe/posts/specialization)
