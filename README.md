@@ -1,6 +1,6 @@
 ## 💡 whoami
 
-I'm an undergraduate student majoring in Computer Science at USTC, passionate about programming languages and systems, and also enthusiastic about frontend development.
+I'm a postgraduate student at USTC since 2024/09, interested in PL, systems, and security.
 
 - 🐶 Homepage: <https://liuly.moe/>.
 - 🕊️ Blog: <https://blog.liuly.moe/>.
